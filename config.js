@@ -20,11 +20,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['Nomor kamu']
-global.ownernomer = "Nomor Kamu"
-global.premium = ['Nomor kamu']
-global.packname = 'Sticker By'
-global.author = 'GabutBot v3.1'
+global.owner = ['6281211037493']
+global.ownernomer = "6281211037493"
+global.premium = ['6281211037493']
+global.packname = 'Sticker By zurr'
+global.author = 'ZurrBot v3.1'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -66,8 +66,8 @@ global.myytv = 'Yt video kamu'
 global.mygc = "Grup wa kamu"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'GABUT-BOT'
-global.akulaku = 'Bot by YangJunMing'
+global.botname = 'Zurr-BOT'
+global.akulaku = 'Bot by zurr'
 global.ytname = 'Nama yt kamu' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
