@@ -20,11 +20,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['Nomor kamu']
-global.ownernomer = "Nomor Kamu"
-global.premium = ['Nomor kamu']
-global.packname = 'Sticker By'
-global.author = 'GabutBot v3.1'
+global.owner = ['628121107493']
+global.ownernomer = ["628121107493"]
+global.premium = ['628121107493']
+global.packname = 'Sticker By Zurr'
+global.author = 'ZykoBot v3.1'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -60,15 +60,15 @@ global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/yangjunming12'
-global.myyt = 'Yt kamu'
-global.myytv = 'Yt video kamu'
-global.mygc = "Grup wa kamu"
+global.mygit = 'https://github.com/Tegar-Onee-chann'
+global.myyt = 'Yt ZykoBotz MD'
+global.myytv = 'Yt Botz V9'
+global.mygc = "-"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'GABUT-BOT'
-global.akulaku = 'Bot by YangJunMing'
-global.ytname = 'Nama yt kamu' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'Zyko-BOT'
+global.akulaku = 'Bot by Zurr'
+global.ytname = 'ZykoBitz MD' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
